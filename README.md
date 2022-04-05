@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsandadi
 - 👀 I’m interested in working/sloving data science problems
-- 🌱 I’m currently learning Data Science with Python and ML
+- 🌱 Working as associate Data Scientist
 - 💞️ I’m looking to collaborate on data science related realtime projects
 - 📫 Reach me @ linkedin.com/rajeshsandadi
 
